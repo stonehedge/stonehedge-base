@@ -1,8 +1,3 @@
-stonehedge-base
-===============
-
-Stonehedge Recipe: Base
-
 Service Components:
   - aws-cli
   - chef-client
