@@ -7,6 +7,7 @@ Use this Chef Cookbook to configure the baseline of all Stonehedge instances.
 Components
 ----------
   - aws-cli
+  - berkshelf
   - chef-client
   - duplicity
   - duply
