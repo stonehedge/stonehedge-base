@@ -11,6 +11,7 @@ Components
   - chef-client
   - duplicity
   - duply
+  - fail2ban
   - haproxy
   - lumberjack-client
   - openssh-server
