@@ -1,4 +1,11 @@
-Service Components:
+Stonehedge Cookbook: Base
+=========================
+
+Use this Chef Cookbook to configure the baseline of all Stonehedge instances.
+
+
+Components
+----------
   - aws-cli
   - chef-client
   - duplicity
