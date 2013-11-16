@@ -10,7 +10,6 @@ Components
   - chef-client
   - duplicity
   - duply
-  - haproxy
   - lumberjack-client
   - openssh-server
   - ntp-client
@@ -18,4 +17,5 @@ Components
   - rdiff-backup
   - rootkit-hunter
   - sensu-client
+  - synapse
   - ufw
