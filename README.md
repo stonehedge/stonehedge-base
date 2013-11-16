@@ -10,6 +10,7 @@ Components
   - chef-client
   - duplicity
   - duply
+  - haproxy
   - lumberjack-client
   - openssh-server
   - ntp-client
